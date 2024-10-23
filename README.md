@@ -4,6 +4,7 @@
 
 First Compiler phase that analyze C++ like code, and give every symbol a type and detect lexical errors
 
+the code.txt file contain comments and unreadable code just as example.
 
 ## Usage
 
