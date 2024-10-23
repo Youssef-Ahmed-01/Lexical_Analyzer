@@ -8,10 +8,10 @@ First Compiler phase that analyze C++ like code, and give every symbol a type an
 ## Usage
 
 1. **Clone the repository**
-2. **compile the main.c using gcc compiler**
+2. **compile the main.c using g++ compiler**
     ```terminal/bash
     cd src
-    gcc main.cpp -o program.exe
+    g++ main.cpp -o program.exe
     mv program.exe ..
 
 3. **run by adding SIC assembly code and the output file**  
