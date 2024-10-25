@@ -15,7 +15,7 @@ the code.txt file contain comments and unreadable code just as example.
     g++ main.cpp -o program.exe
     mv program.exe ..
 
-3. **run by adding SIC assembly code and the output file**  
+3. **run by adding code file as input**  
     ```terminal/bash
     ./program.exe code.txt
 or try any other code 
